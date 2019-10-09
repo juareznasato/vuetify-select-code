@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/juareznasato/vuetify-select-code.git"
   },
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
