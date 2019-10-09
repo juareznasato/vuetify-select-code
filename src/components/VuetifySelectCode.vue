@@ -2,14 +2,14 @@
   <div>
     <template>
       <v-row dense>
-        <v-col cols="3" sm="3" md="3">
+        <v-col cols="2" sm="2" md="2">
           <v-text-field
             v-bind:label="label1"
             v-bind:outlined="options.outlined"
             v-model="modTextField"
           ></v-text-field>
         </v-col>
-        <v-col cols="9" sm="9" md="9">
+        <v-col cols="10" sm="10" md="10">
           <v-select
             v-bind:label="label2"
             v-bind:outlined="options.outlined"
